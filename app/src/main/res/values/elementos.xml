@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="materiais">
+        <item>Caderno</item>
+        <item>Caneta</item>
+        <item>Lápis</item>
+        <item>Borracha</item>
+        <item>Régua</item>
+    </string-array>
+</resources>

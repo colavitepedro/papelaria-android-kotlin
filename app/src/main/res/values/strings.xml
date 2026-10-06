@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Papelaria</string>
+    <string name="titulo_papelaria">Papelaria</string>
+    <string name="subtitulo_papelaria">Lançamento de material escolar</string>
+    <string name="titulo_lancamento">Dados da compra</string>
+    <string name="titulo_confirmacao">Confirme o lançamento</string>
+    <string name="rotulo_codigo">Código do material</string>
+    <string name="rotulo_quantidade">Quantidade</string>
+    <string name="rotulo_valor">Valor unitário (R$)</string>
+    <string name="rotulo_desconto">Desconto (%)</string>
+    <string name="rotulo_subtotal">Subtotal</string>
+    <string name="rotulo_valor_desconto">Valor do desconto</string>
+    <string name="rotulo_total">Total a pagar</string>
+    <string name="dica_codigo">De 1 a 5</string>
+    <string name="dica_quantidade">Informe um número inteiro</string>
+    <string name="dica_valor">Ex.: 10.50 (use ponto)</string>
+    <string name="dica_desconto">De 0 a 100; sem desconto, informe 0</string>
+    <string name="btn_lancamento">Iniciar lançamento</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="btn_listar">Listar materiais</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="erro_codigo">Informe um código de 1 a 5.</string>
+    <string name="erro_quantidade">Informe uma quantidade inteira maior que zero.</string>
+    <string name="erro_valor">Informe um valor maior que zero usando ponto nos decimais.</string>
+    <string name="erro_desconto">Informe um percentual entre 0 e 100.</string>
+</resources>
